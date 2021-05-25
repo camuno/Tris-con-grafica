@@ -1,4 +1,4 @@
-# Flappybird
+# Tris con grafica
 
 Creazione del gioco al solo scopo di imparare
 
